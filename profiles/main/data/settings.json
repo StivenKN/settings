@@ -1,0 +1,227 @@
+{
+  "bracket-pair-colorizer-2.depreciation-notice": false,
+  "prettier.singleQuote": true,
+  "prettier.withNodeModules": true,
+  "editor.formatOnType": false,
+  "vs-code-prettier-eslint.prettierLast": true,
+  "synthwave84.brightness": 0,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "editor.parameterHints.enabled": false,
+  "editor.cursorWidth": 2,
+  "editor.cursorBlinking": "expand",
+  "editor.stickyScroll.enabled": true,
+  "terminal.integrated.cursorStyle": "line",
+  "terminal.integrated.cursorWidth": 2,
+  "terminal.integrated.cursorBlinking": true,
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
+  "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+  "postcssSorting.config": {
+    "properties-order": "alphabetical"
+  },
+  "editor.guides.bracketPairs": "active",
+  "editor.language.colorizedBracketPairs": [],
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
+  "editor.wordWrap": "on",
+  "liveSassCompile.settings.generateMap": true,
+  "liveSassCompile.settings.formats": [
+    {
+      "format": "compressed",
+      "extensionName": ".css",
+      "savePath": "/public/css",
+      "savePathReplacementPairs": null
+    }
+  ],
+  "liveSassCompile.settings.showAnnouncements": null,
+  "liveSassCompile.settings.showOutputWindowOn": "None",
+  "sass.andStared": ["active", "focus", "hover", "nth-child"],
+  "sass.disableAutoIndent": true,
+  "prettier.trailingComma": "none",
+  "trailing-spaces.backgroundColor": "rgba(255, 0, 0,0.3)",
+  "trailing-spaces.schemeIgnore": ["output"],
+  "material-icon-theme.activeIconPack": "react",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "editor.formatOnSave": true,
+  "prettier.semi": false,
+  "prettier.printWidth": 600,
+  "git.confirmSync": false,
+  "git.autofetch": true,
+  "indentRainbow.indicatorStyle": "light",
+  "git.enableSmartCommit": true,
+  "typescript.format.insertSpaceAfterSemicolonInForStatements": false,
+  "javascript.format.insertSpaceAfterSemicolonInForStatements": false,
+  "prettier.configPath": ".prettierrc",
+  "prettier.requireConfig": true,
+  "prettier.eslintIntegration": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit"
+  },
+  "explorer.fileNesting.enabled": true,
+  "explorer.fileNesting.patterns": {
+    "*.ts": "${capture}.js",
+    "*.js": "${capture}.js.map, ${capture}.min.js, ${capture}.d.ts",
+    "*.jsx": "${capture}.js",
+    "*.tsx": "${capture}.ts",
+    "tsconfig.json": "tsconfig.*.json",
+    "package.json": "package-lock.json, yarn.lock, pnpm-lock.yaml, .gitignore",
+    "*.sqlite": "${capture}.${extname}-*",
+    "*.db": "${capture}.${extname}-*",
+    "*.sqlite3": "${capture}.${extname}-*",
+    "*.db3": "${capture}.${extname}-*",
+    "*.sdb": "${capture}.${extname}-*",
+    "*.s3db": "${capture}.${extname}-*"
+  },
+  "workbench.colorCustomizations": {},
+  "git.openRepositoryInParentFolders": "always",
+  "synthwave84.disableGlow": true,
+  "workbench.sideBar.location": "right",
+  "javascript.format.enable": false,
+  "html.format.enable": false,
+  "json.format.enable": false,
+  "css.format.enable": false,
+  "less.format.enable": false,
+  "scss.format.enable": false,
+  "symbols.hidesExplorerArrows": false,
+  "rapidapi.terminalLink.enabled": false,
+  "workbench.editor.empty.hint": "hidden",
+  "window.density.editorTabHeight": "compact",
+  "githubPullRequests.createOnPublishBranch": "never",
+  "aws.suppressPrompts": {
+    "codeWhispererNewWelcomeMessage": true,
+    "codeWhispererConnectionExpired": true
+  },
+  "typescript.format.enable": false,
+  "svelte.enable-ts-plugin": true,
+  "svelte.plugin.svelte.defaultScriptLanguage": "ts",
+  "svelte.plugin.svelte.format.config.singleQuote": true,
+  "svelte.plugin.svelte.format.config.svelteStrictMode": true,
+  "explorer.confirmPasteNative": false,
+  "eslint.format.enable": true,
+  "eslint.lintTask.enable": true,
+  "eslint.probe": [
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact",
+    "html",
+    "vue",
+    "markdown",
+    "astro"
+  ],
+  "scm.showOutgoingChanges": "always",
+  "scm.showIncomingChanges": "always",
+  "gitlens.views.branches.files.layout": "tree",
+  "workbench.activityBar.location": "top",
+  "css.lint.important": "error",
+  "files.eol": "\n",
+  "scm.experimental.showHistoryGraph": true,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "eslint.useFlatConfig": true,
+  "conventionalCommits.showNewVersionNotes": false,
+  "[prisma]": {
+    "editor.defaultFormatter": "Prisma.prisma"
+  },
+  "window.menuBarVisibility": "compact",
+  "nuxtr.piniaFiles.defaultTemplate": "setup",
+  "nuxtr.vueFiles.style.alwaysScoped": true,
+  "editor.useTabStops": false,
+  "workbench.colorTheme": "One Dark Pro Darker",
+  "window.commandCenter": false,
+  "window.customTitleBarVisibility": "auto",
+  "workbench.layoutControl.enabled": false,
+  "window.titleBarStyle": "custom",
+  "window.customMenuBarAltFocus": false,
+  "[go]": {
+    "editor.defaultFormatter": "golang.go"
+  },
+  "window.newWindowProfile": "Default",
+  "[svelte]": {
+    "editor.defaultFormatter": "svelte.svelte-vscode"
+  },
+  "terminal.integrated.defaultProfile.linux": "zsh",
+  "editor.gotoLocation.multipleDefinitions": "goto",
+  "codeium.enableCodeLens": false,
+  "zenMode.hideLineNumbers": false,
+  "zenMode.centerLayout": true,
+  "zenMode.hideActivityBar": true,
+  "zenMode.hideStatusBar": false,
+  "autoclosetabs.numberOfTabsInGroup": 2,
+  "autoclosetabs.tabAgeForAutomaticClosing": 1,
+  "autoclosetabs.activation": "nowhere-except-included",
+  "terminal.integrated.profiles.windows": {
+    "PowerShell": {
+      "source": "PowerShell",
+      "icon": "terminal-powershell"
+    },
+    "Command Prompt": {
+      "path": [
+        "${env:windir}\\Sysnative\\cmd.exe",
+        "${env:windir}\\System32\\cmd.exe"
+      ],
+      "args": [],
+      "icon": "terminal-cmd"
+    },
+    "Git Bash": {
+      "source": "Git Bash"
+    }
+  },
+  "terminal.integrated.defaultProfile.windows": "PowerShell",
+  "zenMode.fullScreen": false,
+  "editor.minimap.enabled": false,
+  "nuxtr.openItemsAfterCreation": true,
+  "vue.splitEditors.icon": true,
+  "[php]": {
+    "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
+  },
+  "intelephense.codeLens.implementations.enable": true,
+  "intelephense.codeLens.overrides.enable": true,
+  "intelephense.codeLens.parent.enable": true,
+  "intelephense.codeLens.references.enable": true,
+  "intelephense.codeLens.usages.enable": true,
+  "tailwindCSS.emmetCompletions": true,
+  "vue.complete.defineAssignment": false,
+  "workbench.editor.customLabels.enabled": true,
+  "workbench.editor.customLabels.patterns": {
+    "**/pages/**/*.vue": "[route] ${dirname}/${filename}.${extname}",
+    "**/components/**/*.vue": "${dirname}/${filename}.${extname}",
+  },
+  "vue.splitEditors.layout.right": [
+    "script",
+    "scriptSetup",
+    "styles"
+  ],
+  "vue.splitEditors.layout.left": [
+    "template",
+    "customBlocks"
+  ],
+  "codeium.enableConfig": {
+    "*": true
+  },
+  "github.copilot.enable": {
+    "*": true,
+    "plaintext": false,
+    "markdown": false,
+    "scminput": false
+  },
+  "github.copilot.advanced": {},
+  "workbench.startupEditor": "none",
+  "intelliphp.inlineSuggestionsEnabled": false,
+  "php.codeActions.enabled": false,
+  "php.inlayHints.insertOnDoubleClick": false,
+  "php.inlayHints.parameters.byReference": false,
+  "php.inlayHints.parameters.enabled": false,
+  "php.inlayHints.types.lambdaParameter": false,
+  "php.inlayHints.types.suppressVariableFromLiteral": false,
+  "php.inlayHints.types.return": false,
+  "vue.codeLens.enabled": false,
+  "editor.tabSize": 2,
+  "javascript.preferences.importModuleSpecifier": "non-relative",
+  "[vue]": {
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+  },
+  "workbench.iconTheme": "symbols",
+}
