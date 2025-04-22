@@ -1,9 +1,9 @@
-disabled:
-  - id: dbaeumer.vscode-eslint
-    uuid: 00000000-0000-0000-0000-000000000000
+disabled: []
 enabled:
-  - id: castrogusttavo.symbols
-    uuid: 9a91c6fa-44b1-4dea-b791-a57fde0df17c
+  - id: Catppuccin.catppuccin-vsc-icons
+    uuid: 625b9abd-dfac-405b-bf34-e65f46e2f22f
+  - id: dbaeumer.vscode-eslint
+    uuid: 583b2b34-2c1e-4634-8c0b-0b82e283ea3a
   - id: zhuangtongfa.material-theme
     uuid: 26a529c9-2654-4b95-a63f-02f6a52429e6
   - id: zokugun.cron-tasks

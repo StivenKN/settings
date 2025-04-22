@@ -27,7 +27,7 @@
   "window.density.editorTabHeight": "compact",
   "workbench.activityBar.location": "top",
   "window.menuBarVisibility": "compact",
-  "workbench.colorTheme": "One Dark Pro Darker",
+  "workbench.colorTheme": "One Dark Pro Night Flat",
   "window.commandCenter": false,
   "workbench.layoutControl.enabled": false,
   "workbench.editor.customLabels.enabled": true,
@@ -36,6 +36,6 @@
     "**/components/**/*.vue": "${dirname}/${filename}.${extname}",
   },
   "workbench.startupEditor": "none",
-  "workbench.iconTheme": "symbols",
+  "workbench.iconTheme": "catppuccin-latte",
   "symbols.hidesExplorerArrows": false,
 }

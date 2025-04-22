@@ -80,7 +80,7 @@ workbench.auxiliarybar.placeholderPanels: '[{"id":"workbench.panel.chat","themeI
   !chatSetupHidden"}]}]'
 workbench.auxiliaryBar.size: "300"
 workbench.chat.hideMovedChatWelcomeView: "true"
-workbench.editor.languageDetectionOpenedLanguages.global: '[["javascript",true],["json",true],["plaintext",true],["astro",true],["jsonc",true]]'
+workbench.editor.languageDetectionOpenedLanguages.global: '[["javascript",true],["json",true],["plaintext",true],["astro",true],["jsonc",true],["yaml",true]]'
 workbench.explorer.views.state.hidden: '[{"id":"outline","isHidden":false},{"id":"timeline","isHidden":false},{"id":"workbench.explorer.openEditorsView","isHidden":true},{"id":"workbench.explorer.fileView","isHidden":false},{"id":"npm","isHidden":true},{"id":"workbench.explorer.emptyView","isHidden":false},{"id":"go.explorer","isHidden":false},{"id":"go.package.outline","isHidden":false}]'
 workbench.panel.alignment: right
 workbench.panel.chat.hidden: '[{"id":"workbench.panel.chat.view.copilot","isHidden":false}]'
@@ -122,7 +122,7 @@ workbench.view.extensions.state.hidden: '[{"id":"workbench.views.extensions.inst
 workbench.view.remote.state.hidden: '[{"id":"targetsContainers","isHidden":false},{"id":"detailsContainers","isHidden":false},{"id":"devVolumes","isHidden":false},{"id":"targetsWsl","isHidden":false}]'
 workbench.view.search.state.hidden: '[{"id":"workbench.view.search","isHidden":false}]'
 workbench.view.sync.state.hidden: '[{"id":"workbench.views.sync.conflicts","isHidden":false},{"id":"workbench.views.sync.remoteActivity","isHidden":false},{"id":"workbench.views.sync.machines","isHidden":false},{"id":"workbench.views.sync.localActivity","isHidden":true},{"id":"workbench.views.sync.troubleshoot","isHidden":true}]'
-workbench.views.extensions.installed.size: "5"
+workbench.views.extensions.installed.size: "3"
 workbench.views.service.auxiliarybar.05d3c192-0d9d-4b20-9e7b-66312cb718be.state.hidden: '[{"id":"workbench.explorer.openEditorsView","isHidden":false}]'
 workbench.views.service.sidebar.72e5d08c-63af-438f-be66-f40b6f86f0b4.state.hidden: '[{"id":"workbench.scm.history","isHidden":false,"order":3}]'
 workbench.views.service.sidebar.7b042b98-4ce9-4e0a-b8f8-15836c8603df.state.hidden:
