@@ -32,10 +32,10 @@
   "workbench.layoutControl.enabled": false,
   "workbench.editor.customLabels.enabled": true,
   "workbench.editor.customLabels.patterns": {
-    "**/pages/**/*.vue": "[route] ${dirname}/${filename}.${extname}",
-    "**/components/**/*.vue": "${dirname}/${filename}.${extname}",
+    "**/pages/**/*": "🗂️ ${dirname}/${filename}.${extname}",
+    "**/components/**/*": "🧩 ${filename}.${extname}",
   },
   "workbench.startupEditor": "none",
-  "workbench.iconTheme": "catppuccin-latte",
+  "workbench.iconTheme": "symbols",
   "symbols.hidesExplorerArrows": false,
 }
