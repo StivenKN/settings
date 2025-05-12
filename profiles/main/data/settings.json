@@ -32,8 +32,9 @@
   "workbench.layoutControl.enabled": false,
   "workbench.editor.customLabels.enabled": true,
   "workbench.editor.customLabels.patterns": {
-    "**/pages/**/*": "🗂️ ${dirname}/${filename}.${extname}",
-    "**/components/**/*": "🧩 ${filename}.${extname}",
+    "**/pages/**/*": "⚪ (${dirname}) ${filename}.${extname}",
+    "**/components/**/*": "🟢 (${dirname}) ${filename}.${extname}",
+    "**/utils/**/*": "🔵 ${filename}.${extname}",
   },
   "workbench.startupEditor": "none",
   "workbench.iconTheme": "symbols",
