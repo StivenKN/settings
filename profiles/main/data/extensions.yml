@@ -1,4 +1,18 @@
-disabled: []
+disabled:
+  - id: asvetliakov.vscode-neovim
+    uuid: caf8995c-5426-4bf7-9d01-f7968ebd49bb
+  - id: bmewburn.vscode-intelephense-client
+    uuid: ffda6552-0ad5-431b-a4fa-0905a7e4f3f0
 enabled:
+  - id: castrogusttavo.symbols
+    uuid: 9a91c6fa-44b1-4dea-b791-a57fde0df17c
+  - id: dbaeumer.vscode-eslint
+    uuid: 583b2b34-2c1e-4634-8c0b-0b82e283ea3a
+  - id: johnpapa.vscode-peacock
+    uuid: 5a7017bf-c571-4d77-b902-6e56b16f539a
+  - id: Vue.volar
+    uuid: a95ee795-1576-4ffa-acda-8d6e6a95c584
+  - id: zhuangtongfa.material-theme
+    uuid: 26a529c9-2654-4b95-a63f-02f6a52429e6
   - id: zokugun.cron-tasks
     uuid: b7bbbbd5-7a39-4312-87aa-ef6a41de67fb
