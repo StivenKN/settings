@@ -23,7 +23,7 @@
     "*.sdb": "${capture}.${extname}-*",
     "*.s3db": "${capture}.${extname}-*"
   },
-  "workbench.sideBar.location": "right",
+  "workbench.sideBar.location": "left",
   "window.density.editorTabHeight": "compact",
   "workbench.activityBar.location": "top",
   "window.menuBarVisibility": "compact",
@@ -39,7 +39,42 @@
   "workbench.startupEditor": "none",
   "workbench.iconTheme": "symbols",
   "symbols.hidesExplorerArrows": false,
-  "extensions.experimental.affinity": {
-    "asvetliakov.vscode-neovim": 1
+  "explorer.confirmDragAndDrop": false,
+  "javascript.updateImportsOnFileMove.enabled": "never",
+  "vim.easymotion": true,
+  "vim.incsearch": true,
+  "vim.useSystemClipboard": true,
+  "vim.useCtrlKeys": true,
+  "vim.hlsearch": true,
+  "vim.insertModeKeyBindings": [
+    {
+      "before": ["j", "j"],
+      "after": ["<Esc>"]
+    }
+  ],
+  "vim.normalModeKeyBindingsNonRecursive": [
+    {
+      "before": ["<leader>", "d"],
+      "after": ["d", "d"]
+    },
+    {
+      "before": ["<C-n>"],
+      "commands": [":nohl"]
+    },
+    {
+      "before": ["K"],
+      "commands": ["lineBreakInsert"],
+      "silent": true
+    }
+  ],
+  "vim.leader": "<space>",
+  "vim.handleKeys": {
+    "<C-a>": false,
+    "<C-f>": false,
+    "<C-p>": false,
   },
+  "extensions.experimental.affinity": {
+    "vscodevim.vim": 1
+  },
+  "editor.tabSize": 2
 }
