@@ -3,14 +3,14 @@ disabled:
     uuid: 1fbbc8b0-7432-4b7e-8774-3336151da2f3
   - id: bmewburn.vscode-intelephense-client
     uuid: ffda6552-0ad5-431b-a4fa-0905a7e4f3f0
+  - id: asvetliakov.vscode-neovim
+    uuid: caf8995c-5426-4bf7-9d01-f7968ebd49bb
   - id: Codeium.windsurfPyright
     uuid: 00000000-0000-0000-0000-000000000000
   - id: ms-python.debugpy
     uuid: 4bd5d2c9-9d65-401a-b0b2-7498d9f17615
   - id: ms-python.python
     uuid: f1f59ae4-9318-4f3c-a9b5-81b2eaa5f8a5
-  - id: vscodevim.vim
-    uuid: d96e79c6-8b25-4be3-8545-0e0ecefcae03
 enabled:
   - id: castrogusttavo.symbols
     uuid: 9a91c6fa-44b1-4dea-b791-a57fde0df17c
