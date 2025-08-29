@@ -1,22 +1,43 @@
-builtin:
-  disabled:
-    - undefined.cursor-themes
 disabled:
+  - id: antfu.goto-alias
+    uuid: 11d92849-00ea-4f8e-b0e4-d28f3ce65652
+  - id: asvetliakov.vscode-neovim
+    uuid: caf8995c-5426-4bf7-9d01-f7968ebd49bb
   - id: astro-build.astro-vscode
     uuid: 1fbbc8b0-7432-4b7e-8774-3336151da2f3
-  - id: bmewburn.vscode-intelephense-client
-    uuid: ffda6552-0ad5-431b-a4fa-0905a7e4f3f0
   - id: dbaeumer.vscode-eslint
     uuid: 583b2b34-2c1e-4634-8c0b-0b82e283ea3a
+  - id: esbenp.prettier-vscode
+    uuid: 96fa4707-6983-4489-b7c5-d5ffdfdcce90
+  - id: Nuxt.mdc
+    uuid: 00000000-0000-0000-0000-000000000000
+  - id: Nuxtr.nuxt-vscode-extentions
+    uuid: 00000000-0000-0000-0000-000000000000
+  - id: Nuxtr.nuxtr-vscode
+    uuid: 00000000-0000-0000-0000-000000000000
   - id: Vue.volar
     uuid: 00000000-0000-0000-0000-000000000000
 enabled:
-  - id: asvetliakov.vscode-neovim
-    uuid: caf8995c-5426-4bf7-9d01-f7968ebd49bb
-  - id: castrogusttavo.symbols
-    uuid: 9a91c6fa-44b1-4dea-b791-a57fde0df17c
+  - id: bmewburn.vscode-intelephense-client
+    uuid: ffda6552-0ad5-431b-a4fa-0905a7e4f3f0
+  - id: bradlc.vscode-tailwindcss
+    uuid: 4db62a7c-7d70-419c-96d2-6c3a4dc77ea5
+  - id: EditorConfig.EditorConfig
+    uuid: f60a60a6-95ba-42d4-b41c-3d24c1b89588
+  - id: GitHub.copilot
+    uuid: 23c4aeee-f844-43cd-b53e-1113e483f1a6
+  - id: GitHub.copilot-chat
+    uuid: 7ec7d6e6-b89e-4cc5-a59b-d6c4d238246f
   - id: johnpapa.vscode-peacock
     uuid: 5a7017bf-c571-4d77-b902-6e56b16f539a
+  - id: laravel.vscode-laravel
+    uuid: 77c91506-f6b9-4993-905d-bfafe12c1cce
+  - id: miguelsolorio.symbols
+    uuid: cb54c3b9-1c64-4c4a-8b5a-887270ffe4b6
+  - id: qwtel.sqlite-viewer
+    uuid: 94fef082-6c2d-43ac-9540-6617b51a3a12
+  - id: xabikos.JavaScriptSnippets
+    uuid: a2cec723-5349-460d-9de9-0fd1f8d3456f
   - id: zhuangtongfa.material-theme
     uuid: 26a529c9-2654-4b95-a63f-02f6a52429e6
   - id: zokugun.cron-tasks
