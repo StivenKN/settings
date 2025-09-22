@@ -3,7 +3,7 @@
   "editor.stickyScroll.enabled": false,
   "explorer.confirmDelete": false,
   "editor.guides.bracketPairs": "active",
-  "editor.fontFamily": "Fira Code",
+  "editor.fontFamily": "CaskaydiaCove Nerd Font",
   "editor.fontLigatures": true,
   "editor.wordWrap": "on",
   "editor.formatOnSave": true,
@@ -37,36 +37,32 @@
     "**/utils/**/*": "🔵 ${filename}.${extname}",
   },
   "workbench.iconTheme": "symbols",
-  "symbols.hidesExplorerArrows": false,
   "explorer.confirmDragAndDrop": false,
   "javascript.updateImportsOnFileMove.enabled": "never",
   "editor.tabSize": 2,
   "extensions.experimental.affinity": {
     "asvetliakov.vscode-neovim": 1
   },
-  "workbench.secondarySideBar.defaultVisibility": "visible",
   "editor.gotoLocation.multipleDefinitions": "goto",
-  "chat.todoListTool.enabled": true,
-  "github.copilot.advanced": {},
-  "github.copilot.chat.localeOverride": "es",
-  "github.copilot.chat.codesearch.enabled": true,
-  "github.copilot.nextEditSuggestions.enabled": true,
-  "chat.mcp.autostart": "newAndOutdated",
-  "chat.mcp.serverSampling": {
-    "Global in Code: sequentialthinking": {
-      "allowedModels": [
-        "copilot/gpt-4.1"
-      ]
-    }
-  },
   "workbench.startupEditor": "none",
   "nuxtr.piniaFiles.defaultTemplate": "setup",
   "nuxtr.vueFiles.style.alwaysScoped": true,
   "nuxtr.openItemsAfterCreation": true,
-  "nuxtr.projectTemplates": [
-    
+  "nuxtr.projectTemplates": [],
+  "editor.minimap.enabled": false,
+  "vue.inlayHints.missingProps": true,
+  "vue.inlayHints.vBindShorthand": true,
+  "vue.suggest.componentNameCasing": "alwaysPascalCase",
+  "vue.suggest.propNameCasing": "alwaysKebabCase",
+  "vue.inlayHints.destructuredProps": true,
+  "diffEditor.ignoreTrimWhitespace": true,
+  "vue.autoInsert.dotValue": true,
+  "files.associations": {
+    "*.module": "php"
+  },
+  "intelephense.files.associations": [
+    "*.php",
+    "*.phtml"
   ],
-  "github.copilot.chat.newWorkspace.useContext7": true,
-  "github.copilot.selectedCompletionModel": "",
-  "github.copilot.chat.agent.currentEditorContext.enabled": false,
+  "sync.gist": "2e258c59a660c1394e644bf060fcea67",
 }
