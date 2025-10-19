@@ -1,8 +1,7 @@
 bmewburn.vscode-intelephense-client: '{"intelephenseVersion":"1.14.4"}'
-Nuxtr.nuxtr-vscode: '{"outdatedDependencies":[{"current":"6.4.9","latest":"6.4.10","wanted":"6.4.10","dependent":"front_integra","name":"@codemirror/lang-html"},{"current":"1.1.6","latest":"1.1.9","wanted":"1.1.6","dependent":"front_integra","name":"@floating-ui/vue"},{"current":"0.8.4","latest":"0.9.0","wanted":"0.8.4","dependent":"front_integra","name":"@formkit/auto-animate"},{"current":"4.3.0","latest":"5.0.0","wanted":"4.3.0","dependent":"front_integra","name":"@iconify/vue"},{"current":"2.6.3","latest":"2.6.5","wanted":"2.6.5","dependent":"front_integra","name":"@nuxt/devtools"},{"current":"1.0.0","latest":"1.9.0","wanted":"1.0.0","dependent":"front_integra","name":"@nuxt/eslint"},{"current":"1.10.3","latest":"2.0.0","wanted":"1.10.3","dependent":"front_integra","name":"@nuxt/icon"},{"current":"12.8.2","latest":"13.9.0","wanted":"12.8.2","dependent":"front_integra","name":"@vueuse/integrations"},{"current":"2.2.6","latest":"3.0.3","wanted":"2.2.6","dependent":"front_integra","name":"@vueuse/motion"},{"current":"12.8.2","latest":"13.9.0","wanted":"12.8.2","dependent":"front_integra","name":"@vueuse/nuxt"},{"current":"9.35.0","latest":"9.36.0","wanted":"9.36.0","dependent":"front_integra","name":"eslint"},{"current":"4.32.8","latest":"4.32.9","wanted":"4.32.9","dependent":"front_integra","name":"filepond"},{"current":"17.6.3","latest":"18.0.1","wanted":"17.6.3","dependent":"front_integra","name":"happy-dom"},{"current":"0.10.3","latest":"0.12.1","wanted":"0.10.3","dependent":"front_integra","name":"html2pdf.js"},{"current":"2.3.0","latest":"3.0.1","wanted":"2.3.0","dependent":"front_integra","name":"iconify-icon"},{"current":"0.12.0","latest":"0.13.1","wanted":"0.12.0","dependent":"front_integra","name":"js-confetti"},{"current":"1.19.0","latest":"2.2.0","wanted":"1.19.0","dependent":"front_integra","name":"laravel-echo"},{"current":"15.5.2","latest":"16.2.0","wanted":"15.5.2","dependent":"front_integra","name":"lint-staged"},{"current":"3.19.1","latest":"4.1.2","wanted":"3.19.2","dependent":"front_integra","name":"nuxt"},{"current":"0.0.11","latest":"0.0.13","wanted":"0.0.11","dependent":"front_integra","name":"nuxt-vue3-google-signin"},{"current":"1.92.0","latest":"1.93.0","wanted":"1.93.0","dependent":"front_integra","name":"sass"},{"current":"5.1.0","latest":"5.1.1","wanted":"5.1.1","dependent":"front_integra","name":"signature_pad"},{"current":"11.2.10","latest":"12.0.2","wanted":"11.2.10","dependent":"front_integra","name":"swiper"},{"current":"11.1.0","latest":"13.0.0","wanted":"11.1.0","dependent":"front_integra","name":"uuid"},{"current":"7.1.5","latest":"7.1.7","wanted":"7.1.7","dependent":"front_integra","name":"vite"},{"current":"3.0.0","latest":"5.0.1","wanted":"3.0.0","dependent":"front_integra","name":"vue-shepherd"},{"current":"0.1.14","latest":"0.2.8","wanted":"0.1.14","dependent":"front_integra","name":"vue3-toastify"},{"current":"4.1.0","latest":"2.24.3","wanted":"4.1.0","dependent":"front_integra","name":"vuedraggable"},{"current":"3.9.7","latest":"3.10.2","wanted":"3.10.2","dependent":"front_integra","name":"vuetify"},{"current":"3.25.76","latest":"4.1.11","wanted":"3.25.76","dependent":"front_integra","name":"zod"}]}'
 qwtel.sqlite-viewer: '{"fistInstallMs":1756412627665,"qwtel.sqlite-viewer":"25.8.2","fileNestingPatternsAdded":true,"sidebarLeft":187.9499999999999,"sidebarRight":350}'
 Vue.volar: '{"vue-welcome":"3.0.6","vue.welcome":"3.0.7"}'
-workbench.activity.pinnedViewlets2: '[{"id":"workbench.view.explorer","pinned":true,"visible":false,"order":0},{"id":"workbench.view.search","pinned":true,"visible":false,"order":1},{"id":"workbench.view.scm","pinned":true,"visible":false,"order":2},{"id":"workbench.view.deepwiki","pinned":true,"visible":false,"order":3},{"id":"workbench.view.debug","pinned":true,"visible":false,"order":3},{"id":"workbench.view.remote","pinned":true,"visible":false,"order":4},{"id":"workbench.view.extensions","pinned":true,"visible":false,"order":4},{"id":"workbench.view.extension.test","pinned":true,"visible":false,"order":6},{"id":"workbench.view.extension.references-view","pinned":true,"visible":false,"order":7},{"id":"workbench.view.extension.github-copilot-completions-debugger-panel","pinned":true,"visible":false,"order":8},{"id":"workbench.view.extension.copilot-chat","pinned":true,"visible":false,"order":9},{"id":"workbench.view.extension.context-inspector","pinned":true,"visible":false,"order":10},{"id":"workbench.view.extension.sidebar-view","pinned":true,"visible":false,"order":8},{"id":"workbench.view.sync","pinned":true,"visible":false},{"id":"workbench.view.editSessions","pinned":true,"visible":false}]'
+workbench.activity.pinnedViewlets2: '[{"id":"workbench.view.explorer","pinned":true,"visible":false,"order":0},{"id":"workbench.view.search","pinned":true,"visible":false,"order":1},{"id":"workbench.view.scm","pinned":true,"visible":false,"order":2},{"id":"workbench.view.deepwiki","pinned":true,"visible":false,"order":3},{"id":"workbench.view.debug","pinned":true,"visible":false,"order":3},{"id":"workbench.view.remote","pinned":true,"visible":false,"order":4},{"id":"workbench.view.extensions","pinned":true,"visible":false,"order":4},{"id":"workbench.view.extension.test","pinned":true,"visible":false,"order":6},{"id":"workbench.view.extension.references-view","pinned":true,"visible":false,"order":7},{"id":"workbench.view.extension.github-copilot-completions-debugger-panel","pinned":true,"visible":false,"order":8},{"id":"workbench.view.extension.copilot-chat","pinned":true,"visible":false,"order":9},{"id":"workbench.view.extension.context-inspector","pinned":true,"visible":false,"order":10},{"id":"workbench.view.sync","pinned":true,"visible":false},{"id":"workbench.view.editSessions","pinned":true,"visible":false}]'
 workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
   \"themeIcon\":{\"id\":\"explorer-view-icon\"},\"name\":\"Explorer\",\"isBuilt\
   in\":true,\"views\":[{},{},{},{\"when\":\"timelineHasProvider\"},{\"when\":\"\
@@ -13,10 +12,9 @@ workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
   Control\",\"isBuiltin\":true,\"views\":[{\"when\":\"scm.providerCount &&
   scm.providerCount != '0'\"},{},{\"when\":\"scm.historyProviderCount &&
   scm.historyProviderCount !=
-  '0'\"}]},{\"id\":\"workbench.view.deepwiki\",\"themeIcon\":{\"id\":\"deepwiki\
-  -icon\"},\"name\":\"DeepWiki
-  (Beta)\",\"isBuiltin\":true,\"views\":[{}]},{\"id\":\"workbench.view.debug\",\
-  \"themeIcon\":{\"id\":\"run-view-icon\"},\"name\":\"Run and
+  '0'\"}]},{\"id\":\"workbench.view.deepwiki\",\"name\":\"DeepWiki
+  (Beta)\",\"isBuiltin\":false},{\"id\":\"workbench.view.debug\",\"themeIcon\":{\
+  \"id\":\"run-view-icon\"},\"name\":\"Run and
   Debug\",\"isBuiltin\":true,\"views\":[{\"when\":\"debugUx ==
   'simple'\"},{\"when\":\"debugUx == 'default'\"},{\"when\":\"debugUx ==
   'default'\"},{\"when\":\"debugUx ==
@@ -31,10 +29,15 @@ workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
   'pwa-node'\"},{\"when\":\"jsDebugNetworkAvailable\"}]},{\"id\":\"workbench.vi\
   ew.remote\",\"themeIcon\":{\"id\":\"remote-explorer-view-icon\"},\"name\":\"R\
   emote
-  Explorer\",\"isBuiltin\":true,\"views\":[{},{},{\"when\":\"false\"}]},{\"id\":\
-  \"workbench.view.extensions\",\"themeIcon\":{\"id\":\"extensions-view-icon\"},\
-  \"name\":\"Extensions\",\"isBuiltin\":true,\"views\":[{\"when\":\"defaultExte\
-  nsionViews\"},{\"when\":\"searchExtensionUpdates ||
+  Explorer\",\"isBuiltin\":true,\"views\":[]},{\"id\":\"workbench.view.extensio\
+  ns\",\"themeIcon\":{\"id\":\"extensions-view-icon\"},\"name\":\"Extensions\",\
+  \"isBuiltin\":true,\"views\":[{\"when\":\"defaultExtensionViews &&
+  extensionsGalleryStatus == 'accessDenied' || defaultExtensionViews &&
+  extensionsGalleryStatus == 'requiresSignIn' || searchMarketplaceExtensions &&
+  extensionsGalleryStatus == 'accessDenied' || searchMarketplaceExtensions &&
+  extensionsGalleryStatus ==
+  'requiresSignIn'\"},{\"when\":\"defaultExtensionViews\"},{\"when\":\"searchEx\
+  tensionUpdates ||
   searchOutdatedExtensions\"},{\"when\":\"recommendedExtensions &&
   workbenchState != 'empty'\"},{\"when\":\"defaultExtensionViews && hasGallery
   && !hasInstalledExtensions\"},{\"when\":\"searchExtensionUpdates ||
@@ -43,8 +46,19 @@ workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
   !config.extensions.showRecommendationsOnlyOnDemand &&
   !sortByUpdateDate\"},{\"when\":\"defaultExtensionViews &&
   hasInstalledExtensions\"},{\"when\":\"defaultExtensionViews &&
-  hasInstalledExtensions\"},{\"when\":\"searchMarketplaceExtensions\"},{\"when\
-  \":\"installedExtensions ||
+  hasInstalledMcpServers\"},{\"when\":\"config.chat.mcp.gallery.enabled &&
+  defaultExtensionViews && !chatSetupHidden && !hasInstalledMcpServers &&
+  mcpServersGalleryStatus == 'available' || config.chat.mcp.gallery.serviceUrl
+  && defaultExtensionViews && !chatSetupHidden && !hasInstalledMcpServers &&
+  mcpServersGalleryStatus == 'available' || defaultExtensionViews &&
+  !chatSetupHidden && !hasInstalledMcpServers && mcpServersGalleryStatus ==
+  'available' && productQualityType !=
+  'stable'\"},{\"when\":\"defaultExtensionViews && !chatSetupHidden &&
+  !config.chat.mcp.gallery.enabled && !config.chat.mcp.gallery.serviceUrl &&
+  !hasInstalledMcpServers && mcpServersGalleryStatus == 'available' &&
+  productQualityType == 'stable'\"},{\"when\":\"defaultExtensionViews &&
+  hasInstalledExtensions\"},{\"when\":\"hasGallery &&
+  searchMarketplaceExtensions\"},{\"when\":\"installedExtensions ||
   searchInstalledExtensions\"},{\"when\":\"searchEnabledExtensions\"},{\"when\":\
   \"searchDisabledExtensions\"},{\"when\":\"searchBuiltInExtensions\"},{\"when\
   \":\"searchWorkspaceUnsupportedExtensions\"},{\"when\":\"builtInExtensions\"}\
@@ -52,10 +66,17 @@ workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
   \"searchUnsupportedWorkspaceExtensions\"},{\"when\":\"searchUnsupportedWorksp\
   aceExtensions\"},{\"when\":\"searchUnsupportedWorkspaceExtensions &&
   virtualWorkspace\"},{\"when\":\"searchUnsupportedWorkspaceExtensions &&
-  virtualWorkspace\"},{\"when\":\"searchDeprecatedExtensions\"}]},{\"id\":\"wor\
-  kbench.view.extension.test\",\"themeIcon\":{\"id\":\"test-view-icon\"},\"name\
-  \":\"Testing\",\"isBuiltin\":true,\"views\":[{\"when\":\"testing.providerCount
-  >
+  virtualWorkspace\"},{\"when\":\"searchDeprecatedExtensions\"},{\"when\":\"con\
+  fig.chat.mcp.gallery.enabled && searchMcpServers && mcpServersGalleryStatus ==
+  'available' || config.chat.mcp.gallery.serviceUrl && searchMcpServers &&
+  mcpServersGalleryStatus == 'available' || searchMcpServers &&
+  mcpServersGalleryStatus == 'available' && productQualityType !=
+  'stable'\"},{\"when\":\"searchMcpServers && !config.chat.mcp.gallery.enabled
+  && !config.chat.mcp.gallery.serviceUrl && mcpServersGalleryStatus ==
+  'available' && productQualityType ==
+  'stable'\"}]},{\"id\":\"workbench.view.extension.test\",\"themeIcon\":{\"id\":\
+  \"test-view-icon\"},\"name\":\"Testing\",\"isBuiltin\":true,\"views\":[{\"when\
+  \":\"testing.providerCount >
   0\"},{\"when\":\"testing.isTestCoverageOpen\"}]},{\"id\":\"workbench.view.ext\
   ension.references-view\",\"themeIcon\":{\"id\":\"references\"},\"name\":\"Ref\
   erences\",\"isBuiltin\":false,\"views\":[{\"when\":\"reference-list.isActive\
@@ -64,26 +85,32 @@ workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
   xtension.copilot-chat\",\"name\":\"Copilot Chat
   Debug\",\"isBuiltin\":false},{\"id\":\"workbench.view.extension.context-inspe\
   ctor\",\"name\":\"Language Context
-  Inspector\",\"isBuiltin\":false},{\"id\":\"workbench.view.extension.sidebar-v\
-  iew\",\"iconUrl\":{\"$mid\":1,\"path\":\"%%EXTENSION_DATA_PATH%%/nuxtr.nuxtr-\
-  vscode-0.2.16-universal/assets/logo.svg\",\"scheme\":\"file\"},\"name\":\"Nux\
-  tr\",\"isBuiltin\":false,\"views\":[{\"when\":\"nuxtr.isNuxtProject\"}]},{\"id\
-  \":\"workbench.view.sync\",\"name\":\"Settings
-  Sync\",\"isBuiltin\":false},{\"id\":\"workbench.view.editSessions\",\"name\":\
-  \"Cloud Changes\",\"isBuiltin\":false}]"
+  Inspector\",\"isBuiltin\":false},{\"id\":\"workbench.view.sync\",\"themeIcon\
+  \":{\"id\":\"settings-sync-view-icon\"},\"name\":\"Settings
+  Sync\",\"isBuiltin\":true,\"views\":[{\"when\":\"enableSyncConflictsView &&
+  hasConflicts\"},{\"when\":\"enableSyncActivityViews &&
+  userDataSyncAccountStatus == 'available' && syncStatus !=
+  'uninitialized'\"},{\"when\":\"enableSyncActivityViews &&
+  userDataSyncAccountStatus == 'available' && syncStatus !=
+  'uninitialized'\"},{\"when\":\"enableSyncActivityViews &&
+  userDataSyncAccountStatus == 'available' && syncStatus !=
+  'uninitialized'\"},{\"when\":\"enableSyncActivityViews\"},{\"when\":\"enableS\
+  yncActivityViews\"}]},{\"id\":\"workbench.view.editSessions\",\"themeIcon\":{\
+  \"id\":\"edit-sessions-view-icon\"},\"name\":\"Cloud
+  Changes\",\"isBuiltin\":true,\"views\":[{\"when\":\"editSessionsShowView\"}]}\
+  ]"
 workbench.activityBar.location: top
+workbench.auxiliaryBar.empty: "false"
 workbench.auxiliaryBar.lastNonMaximizedSize: "409"
-workbench.auxiliarybar.pinnedPanels: '[{"id":"workbench.panel.chatEditing","pinned":true,"visible":false,"order":101},{"id":"workbench.panel.chat","pinned":true,"visible":false,"order":100},{"id":"workbench.views.service.auxiliarybar.05d3c192-0d9d-4b20-9e7b-66312cb718be","pinned":true,"visible":false}]'
-workbench.auxiliarybar.placeholderPanels: '[{"id":"workbench.panel.chatEditing","isBuiltin":false},{"id":"workbench.panel.chat","themeIcon":{"id":"comment-discussion"},"name":"Chat","isBuiltin":true,"views":[{"when":"chatExtensionInvalid
-  || chatPanelParticipantRegistered || chatSetupInstalled && !chatSetupDisabled
-  || !chatSetupDisabled &&
-  !chatSetupHidden"}]},{"id":"workbench.views.service.auxiliarybar.05d3c192-0d9d-4b20-9e7b-66312cb718be","themeIcon":{"id":"open-editors-view-icon"},"name":"Open
-  Editors","isBuiltin":true,"views":[{}]}]'
-workbench.auxiliaryBar.size: "500"
+workbench.auxiliarybar.pinnedPanels: '[{"id":"workbench.panel.chatEditing","pinned":true,"visible":false,"order":101},{"id":"workbench.panel.chat","pinned":true,"visible":false,"order":1}]'
+workbench.auxiliarybar.placeholderPanels: '[{"id":"workbench.panel.chatEditing","isBuiltin":false},{"id":"workbench.panel.chat","themeIcon":{"id":"chat-sparkle"},"name":"Chat","isBuiltin":true,"views":[{"when":"chatExtensionInvalid
+  || chatPanelParticipantRegistered || !chatSetupDisabled &&
+  !chatSetupHidden"}]}]'
+workbench.auxiliaryBar.size: "447"
 workbench.chat.hideMovedChatWelcomeView: "true"
 workbench.chat.hideWelcomeView: "true"
 workbench.deepwiki.views.state.hidden: '[{"id":"workbench.deepwiki","isHidden":false}]'
-workbench.editor.languageDetectionOpenedLanguages.global: '[["mdc",true],["editorconfig",true],["html",true],["javascript",true],["json",true],["php",true],["css",true],["plaintext",true],["typescript",true],["vue",true],["jsonc",true],["yaml",true]]'
+workbench.editor.languageDetectionOpenedLanguages.global: '[["mdc",true],["editorconfig",true],["html",true],["javascript",true],["json",true],["php",true],["css",true],["typescript",true],["vue",true],["jsonc",true],["yaml",true],["plaintext",true]]'
 workbench.explorer.views.state.hidden: '[{"id":"outline","isHidden":true},{"id":"timeline","isHidden":true},{"id":"workbench.explorer.openEditorsView","isHidden":true},{"id":"workbench.explorer.emptyView","isHidden":false},{"id":"npm","isHidden":true},{"id":"workbench.explorer.fileView","isHidden":false},{"id":"thunder-client-sidebar","isHidden":false},{"id":"sqlite.explorer","isHidden":false}]'
 workbench.panel.alignment: center
 workbench.panel.chat.hidden: '[{"id":"workbench.panel.chat.view.copilot","isHidden":false}]'
@@ -95,7 +122,7 @@ workbench.panel.output.hidden: '[{"id":"workbench.panel.output","isHidden":false
 workbench.panel.pinnedPanels: '[{"id":"workbench.panel.markers","pinned":true,"visible":false,"order":0},{"id":"workbench.panel.output","pinned":true,"visible":false,"order":1},{"id":"workbench.panel.repl","pinned":true,"visible":false,"order":2},{"id":"terminal","pinned":true,"visible":false,"order":3},{"id":"workbench.panel.testResults","pinned":true,"visible":false,"order":3},{"id":"~remote.forwardedPortsContainer","pinned":true,"visible":false,"order":5},{"id":"refactorPreview","pinned":true,"visible":false}]'
 workbench.panel.placeholderPanels: '[{"id":"workbench.panel.markers","themeIcon":{"id":"markers-view-icon"},"name":"Problems","isBuiltin":true,"views":[{}]},{"id":"workbench.panel.output","themeIcon":{"id":"output-view-icon"},"name":"Output","isBuiltin":true,"views":[{}]},{"id":"workbench.panel.repl","themeIcon":{"id":"debug-console-view-icon"},"name":"Debug
   Console","isBuiltin":true,"views":[{"when":"debuggersAvailable"}]},{"id":"terminal","themeIcon":{"id":"terminal-view-icon"},"name":"Terminal","isBuiltin":true,"views":[{}]},{"id":"workbench.panel.testResults","themeIcon":{"id":"test-results-icon"},"name":"Test
-  Results","isBuiltin":true,"views":[{"when":"testing.hasAnyResults"}]},{"id":"~remote.forwardedPortsContainer","themeIcon":{"id":"ports-view-icon"},"name":"Ports","isBuiltin":true,"views":[{}]},{"id":"refactorPreview","themeIcon":{"id":"refactor-preview-view-icon"},"name":"Refactor
+  Results","isBuiltin":true,"views":[{"when":"testing.hasAnyResults"}]},{"id":"~remote.forwardedPortsContainer","themeIcon":{"id":"ports-view-icon"},"name":"Ports","isBuiltin":true,"views":[]},{"id":"refactorPreview","themeIcon":{"id":"refactor-preview-view-icon"},"name":"Refactor
   Preview","isBuiltin":true,"views":[{"when":"refactorPreview.enabled"}]}]'
 workbench.panel.repl.hidden: '[{"id":"workbench.panel.repl.view","isHidden":false}]'
 workbench.panel.size: "525"
@@ -123,11 +150,11 @@ workbench.view.extension.SonarLint.state.hidden: '[{"id":"SonarLint.AllRules","i
 workbench.view.extension.test.state.hidden: '[{"id":"workbench.view.testing","isHidden":false},{"id":"workbench.view.testCoverage","isHidden":false}]'
 workbench.view.extension.thunder-client.state.hidden: '[{"id":"thunder-client-sidebar","isHidden":false}]'
 workbench.view.extension.wallaby.state.hidden: '[{"id":"quokkaValueExplorer","isHidden":false}]'
-workbench.view.extensions.state.hidden: '[{"id":"workbench.views.extensions.installed","isHidden":false},{"id":"workbench.views.extensions.searchOutdated","isHidden":false},{"id":"workbench.views.extensions.workspaceRecommendations","isHidden":false},{"id":"workbench.views.extensions.popular","isHidden":false},{"id":"workbench.views.extensions.searchRecentlyUpdated","isHidden":false},{"id":"workbench.views.extensions.otherRecommendations","isHidden":false},{"id":"extensions.recommendedList","isHidden":false},{"id":"workbench.views.extensions.enabled","isHidden":true},{"id":"workbench.views.extensions.disabled","isHidden":true},{"id":"workbench.views.extensions.marketplace","isHidden":false},{"id":"workbench.views.extensions.searchInstalled","isHidden":false},{"id":"workbench.views.extensions.searchEnabled","isHidden":false},{"id":"workbench.views.extensions.searchDisabled","isHidden":false},{"id":"workbench.views.extensions.searchBuiltin","isHidden":false},{"id":"workbench.views.extensions.searchWorkspaceUnsupported","isHidden":false},{"id":"workbench.views.extensions.builtinFeatureExtensions","isHidden":false},{"id":"workbench.views.extensions.builtinThemeExtensions","isHidden":false},{"id":"workbench.views.extensions.builtinProgrammingLanguageExtensions","isHidden":false},{"id":"workbench.views.extensions.untrustedUnsupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.untrustedPartiallySupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.virtualUnsupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.virtualPartiallySupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.deprecatedExtensions","isHidden":false},{"id":"workbench.views.mcp.installed","isHidden":false},{"id":"workbench.views.mcp.default.marketplace","isHidden":false},{"id":"workbench.views.mcp.marketplace","isHidden":false},{"id":"workbench.views.extensions.marketplaceAccess","isHidden":false}]'
+workbench.view.extensions.state.hidden: '[{"id":"workbench.views.extensions.installed","isHidden":false},{"id":"workbench.views.extensions.searchOutdated","isHidden":false},{"id":"workbench.views.extensions.workspaceRecommendations","isHidden":false},{"id":"workbench.views.extensions.popular","isHidden":false},{"id":"workbench.views.extensions.searchRecentlyUpdated","isHidden":false},{"id":"workbench.views.extensions.otherRecommendations","isHidden":false},{"id":"extensions.recommendedList","isHidden":false},{"id":"workbench.views.extensions.enabled","isHidden":true},{"id":"workbench.views.extensions.disabled","isHidden":true},{"id":"workbench.views.extensions.marketplace","isHidden":false},{"id":"workbench.views.extensions.searchInstalled","isHidden":false},{"id":"workbench.views.extensions.searchEnabled","isHidden":false},{"id":"workbench.views.extensions.searchDisabled","isHidden":false},{"id":"workbench.views.extensions.searchBuiltin","isHidden":false},{"id":"workbench.views.extensions.searchWorkspaceUnsupported","isHidden":false},{"id":"workbench.views.extensions.builtinFeatureExtensions","isHidden":false},{"id":"workbench.views.extensions.builtinThemeExtensions","isHidden":false},{"id":"workbench.views.extensions.builtinProgrammingLanguageExtensions","isHidden":false},{"id":"workbench.views.extensions.untrustedUnsupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.untrustedPartiallySupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.virtualUnsupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.virtualPartiallySupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.deprecatedExtensions","isHidden":false},{"id":"workbench.views.mcp.installed","isHidden":false},{"id":"workbench.views.mcp.default.marketplace","isHidden":false},{"id":"workbench.views.mcp.marketplace","isHidden":false},{"id":"workbench.views.extensions.marketplaceAccess","isHidden":false},{"id":"workbench.views.mcp.default.welcomeView","isHidden":false},{"id":"workbench.views.mcp.welcomeView","isHidden":false}]'
 workbench.view.remote.state.hidden: '[{"id":"windsurfDevContainers","isHidden":false},{"id":"windsurfSSHHosts","isHidden":false}]'
 workbench.view.search.state.hidden: '[{"id":"workbench.view.search","isHidden":false}]'
 workbench.view.sync.state.hidden: '[{"id":"workbench.views.sync.conflicts","isHidden":false},{"id":"workbench.views.sync.remoteActivity","isHidden":false},{"id":"workbench.views.sync.machines","isHidden":false},{"id":"workbench.views.sync.localActivity","isHidden":true},{"id":"workbench.views.sync.troubleshoot","isHidden":true}]'
-workbench.views.extensions.installed.size: "17"
+workbench.views.extensions.installed.size: "13"
 workbench.views.service.auxiliarybar.05d3c192-0d9d-4b20-9e7b-66312cb718be.state.hidden: '[{"id":"workbench.explorer.openEditorsView","isHidden":false}]'
 workbench.views.service.sidebar.72e5d08c-63af-438f-be66-f40b6f86f0b4.state.hidden: '[{"id":"workbench.scm.history","isHidden":false,"order":3}]'
 workbench.views.service.sidebar.7b042b98-4ce9-4e0a-b8f8-15836c8603df.state.hidden:
