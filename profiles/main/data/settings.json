@@ -7,7 +7,7 @@
   "editor.fontLigatures": true,
   "editor.wordWrap": "on",
   "editor.formatOnSave": true,
-  "git.enabled": false,
+  "git.enabled": true,
   "explorer.fileNesting.enabled": true,
   "explorer.fileNesting.patterns": {
     "*.ts": "${capture}.js",
@@ -27,7 +27,7 @@
   "window.density.editorTabHeight": "compact",
   "workbench.activityBar.location": "top",
   "window.menuBarVisibility": "compact",
-  "workbench.colorTheme": "One Dark Pro Night Flat",
+  "workbench.colorTheme": "Catppuccin Mocha",
   "window.commandCenter": false,
   "workbench.layoutControl.enabled": false,
   "workbench.editor.customLabels.enabled": true,
@@ -40,29 +40,75 @@
   "explorer.confirmDragAndDrop": false,
   "javascript.updateImportsOnFileMove.enabled": "never",
   "editor.tabSize": 2,
-  "extensions.experimental.affinity": {
-    "asvetliakov.vscode-neovim": 1
-  },
-  "editor.gotoLocation.multipleDefinitions": "goto",
   "workbench.startupEditor": "none",
-  "nuxtr.piniaFiles.defaultTemplate": "setup",
-  "nuxtr.vueFiles.style.alwaysScoped": true,
-  "nuxtr.openItemsAfterCreation": true,
-  "nuxtr.projectTemplates": [],
   "editor.minimap.enabled": false,
-  "vue.inlayHints.missingProps": true,
-  "vue.inlayHints.vBindShorthand": true,
-  "vue.suggest.componentNameCasing": "alwaysPascalCase",
-  "vue.suggest.propNameCasing": "alwaysKebabCase",
-  "vue.inlayHints.destructuredProps": true,
   "diffEditor.ignoreTrimWhitespace": true,
-  "vue.autoInsert.dotValue": true,
   "files.associations": {
     "*.module": "php"
   },
-  "intelephense.files.associations": [
-    "*.php",
-    "*.phtml"
+  "Laravel.pint.runOnSave": true,
+  "editor.snippetSuggestions": "bottom",
+  "vim.easymotion": true,
+  "vim.incsearch": true,
+  "vim.useSystemClipboard": true,
+  "vim.useCtrlKeys": true,
+  "vim.hlsearch": true,
+  "vim.insertModeKeyBindings": [
+    {
+      "before": [
+        "j",
+        "j"
+      ],
+      "after": [
+        "<Esc>"
+      ]
+    }
   ],
-  "sync.gist": "2e258c59a660c1394e644bf060fcea67",
+  "vim.normalModeKeyBindingsNonRecursive": [
+    {
+      "before": [
+        "<leader>",
+        "d"
+      ],
+      "after": [
+        "d",
+        "d"
+      ]
+    },
+    {
+      "before": [
+        "<C-n>"
+      ],
+      "commands": [
+        ":nohl"
+      ]
+    },
+    {
+      "before": [
+        "K"
+      ],
+      "commands": [
+        "lineBreakInsert"
+      ],
+      "silent": true
+    }
+  ],
+  "vim.leader": "<space>",
+  "vim.handleKeys": {
+    "<C-a>": false,
+    "<C-f>": false,
+    "<C-p>": false,
+  },
+  "extensions.experimental.affinity": {
+    "vscodevim.vim": 1
+  },
+  "intelephense.codeLens.implementations.enable": true,
+  "intelephense.codeLens.overrides.enable": true,
+  "intelephense.codeLens.parent.enable": true,
+  "intelephense.codeLens.references.enable": true,
+  "intelephense.codeLens.usages.enable": true,
+  "cursor.composer.shouldChimeAfterChatFinishes": true,
+  "intelephense.diagnostics.undefinedSymbols": false,
+  "intelephense.files.maxSize": 20000000,
+  "cursor.composer.usageSummaryDisplay": "always",
 }

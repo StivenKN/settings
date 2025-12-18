@@ -1,29 +1,24 @@
 builtin:
   disabled:
+    - undefined.cursor-themes
     - vscode.php-language-features
 disabled:
-  - id: astro-build.astro-vscode
-    uuid: 1fbbc8b0-7432-4b7e-8774-3336151da2f3
-  - id: asvetliakov.vscode-neovim
-    uuid: caf8995c-5426-4bf7-9d01-f7968ebd49bb
-  - id: bmewburn.vscode-intelephense-client
-    uuid: ffda6552-0ad5-431b-a4fa-0905a7e4f3f0
   - id: bradlc.vscode-tailwindcss
     uuid: 4db62a7c-7d70-419c-96d2-6c3a4dc77ea5
-  - id: esbenp.prettier-vscode
-    uuid: 96fa4707-6983-4489-b7c5-d5ffdfdcce90
-  - id: laravel.vscode-laravel
-    uuid: 77c91506-f6b9-4993-905d-bfafe12c1cce
-  - id: qwtel.sqlite-viewer
-    uuid: 94fef082-6c2d-43ac-9540-6617b51a3a12
-enabled:
   - id: dbaeumer.vscode-eslint
     uuid: 583b2b34-2c1e-4634-8c0b-0b82e283ea3a
+  - id: Vue.volar
+    uuid: 00000000-0000-0000-0000-000000000000
+enabled:
+  - id: bmewburn.vscode-intelephense-client
+    uuid: ffda6552-0ad5-431b-a4fa-0905a7e4f3f0
+  - id: Catppuccin.catppuccin-vsc
+    uuid: 69264e4d-cd3b-468a-8f2b-e69673c7d864
   - id: johnpapa.vscode-peacock
     uuid: 5a7017bf-c571-4d77-b902-6e56b16f539a
-  - id: Vue.volar
-    uuid: a95ee795-1576-4ffa-acda-8d6e6a95c584
-  - id: zhuangtongfa.material-theme
-    uuid: 26a529c9-2654-4b95-a63f-02f6a52429e6
+  - id: laravel.vscode-laravel
+    uuid: 77c91506-f6b9-4993-905d-bfafe12c1cce
+  - id: miguelsolorio.symbols
+    uuid: null
   - id: zokugun.cron-tasks
     uuid: b7bbbbd5-7a39-4312-87aa-ef6a41de67fb
