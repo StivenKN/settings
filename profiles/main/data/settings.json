@@ -1,5 +1,5 @@
 {
-  "editor.cursorBlinking": "expand",
+  "editor.cursorBlinking": "phase",
   "editor.stickyScroll.enabled": false,
   "explorer.confirmDelete": false,
   "editor.guides.bracketPairs": "active",
@@ -28,7 +28,6 @@
   "workbench.activityBar.location": "top",
   "window.menuBarVisibility": "compact",
   "workbench.colorTheme": "Catppuccin Mocha",
-  "window.commandCenter": false,
   "workbench.layoutControl.enabled": false,
   "workbench.editor.customLabels.enabled": true,
   "workbench.editor.customLabels.patterns": {
@@ -36,79 +35,21 @@
     "**/components/**/*": "🟢 (${dirname}) ${filename}.${extname}",
     "**/utils/**/*": "🔵 ${filename}.${extname}",
   },
+  "files.associations": { "*.module": "php" },
   "workbench.iconTheme": "symbols",
   "explorer.confirmDragAndDrop": false,
-  "javascript.updateImportsOnFileMove.enabled": "never",
-  "editor.tabSize": 2,
   "workbench.startupEditor": "none",
   "editor.minimap.enabled": false,
   "diffEditor.ignoreTrimWhitespace": true,
-  "files.associations": {
-    "*.module": "php"
-  },
   "Laravel.pint.runOnSave": true,
-  "editor.snippetSuggestions": "bottom",
-  "vim.easymotion": true,
-  "vim.incsearch": true,
-  "vim.useSystemClipboard": true,
-  "vim.useCtrlKeys": true,
-  "vim.hlsearch": true,
-  "vim.insertModeKeyBindings": [
-    {
-      "before": [
-        "j",
-        "j"
-      ],
-      "after": [
-        "<Esc>"
-      ]
-    }
-  ],
-  "vim.normalModeKeyBindingsNonRecursive": [
-    {
-      "before": [
-        "<leader>",
-        "d"
-      ],
-      "after": [
-        "d",
-        "d"
-      ]
-    },
-    {
-      "before": [
-        "<C-n>"
-      ],
-      "commands": [
-        ":nohl"
-      ]
-    },
-    {
-      "before": [
-        "K"
-      ],
-      "commands": [
-        "lineBreakInsert"
-      ],
-      "silent": true
-    }
-  ],
-  "vim.leader": "<space>",
-  "vim.handleKeys": {
-    "<C-a>": false,
-    "<C-f>": false,
-    "<C-p>": false,
-  },
-  "extensions.experimental.affinity": {
-    "vscodevim.vim": 1
-  },
-  "intelephense.codeLens.implementations.enable": true,
-  "intelephense.codeLens.overrides.enable": true,
-  "intelephense.codeLens.parent.enable": true,
-  "intelephense.codeLens.references.enable": true,
-  "intelephense.codeLens.usages.enable": true,
-  "cursor.composer.shouldChimeAfterChatFinishes": true,
-  "intelephense.diagnostics.undefinedSymbols": false,
-  "intelephense.files.maxSize": 20000000,
-  "cursor.composer.usageSummaryDisplay": "always",
+  "github.copilot.nextEditSuggestions.enabled": true,
+  "workbench.panel.showLabels": false,
+  "git.confirmSync": false,
+  "chat.viewSessions.orientation": "stacked",
+  "inlineChat.affordance": "editor",
+  "github.copilot.chat.searchSubagent.enabled": true,
+  "github.copilot.chat.anthropic.contextEditing.enabled": true,
+  "github.copilot.chat.copilotMemory.enabled": true,
+  "workbench.browser.openLocalhostLinks": true,
+  "simpleBrowser.useIntegratedBrowser": true,
 }
